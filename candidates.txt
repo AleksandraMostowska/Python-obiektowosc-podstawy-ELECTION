@@ -1,0 +1,5 @@
+Jan, Kowalski, 0, O1
+Anna, Nowak, 0, O2
+Mariusz, Lewandowski, 0, O2
+Janina, Kowalczyk, 0, O1
+Jakub, Szymanski, 0, O2
